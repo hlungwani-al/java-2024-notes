@@ -1,0 +1,30 @@
+Java is beautiful
+
+It's not hard, it's just a lot
+
+Arrays can't be changed in Java
+
+Java is used more on the server side, preffered more than Node
+
+--------------------------------
+ ---storing Variables in java---
+--------------------------------
+byte -> -128 to +127 (use a byte if you know the number is not gonna be too long and will be in that range)
+
+short
+
+Integer
+
+Long, long example = 10l;
+
+double
+
+float = 12.7f; // uses less bytes
+
+String
+
+char
+
+-----------------------------------
+String girlfriends [] = {}
+package ? folder in javascript
